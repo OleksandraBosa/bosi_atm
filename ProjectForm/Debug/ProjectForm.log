@@ -1,0 +1,60 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Card.cpp
+  CashDispenser.cpp
+  Phone.cpp
+  ProcessingCenter.cpp
+ProcessingCenter.cpp(53): warning C4244: 'return' : conversion from 'double' to 'const int', possible loss of data
+ProcessingCenter.cpp(80): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectForm.cpp
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(566): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(568): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(636): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(638): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(639): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(908): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(913): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(983): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1024): warning C4244: '=' : conversion from '__int64' to 'size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1026): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1032): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1037): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1059): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1061): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1067): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1072): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1111): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1113): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1114): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1120): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1125): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1161): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1249): warning C4244: '=' : conversion from '__int64' to 'size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1251): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1258): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1265): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1334): warning C4244: '=' : conversion from '__int64' to 'size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1336): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1341): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1347): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1350): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1351): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1391): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1403): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1404): warning C4244: 'argument' : conversion from '__int64' to 'const size_t', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1463): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1469): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1475): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1481): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1492): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1504): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\Form1.h(1516): warning C4244: 'argument' : conversion from '__int64' to 'const int', possible loss of data
+  Receipt.cpp
+Receipt.cpp(44): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+  Receipt1.cpp
+  Transfer.cpp
+  Generating Code...
+f:\навчання\проекти с++\мооп\проект\tfin12\tfin12\tfin12\projectform\cashdispenser.cpp(12): warning C4715: 'CashDispenser::processing' : not all control paths return a value
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  ProjectForm.vcxproj -> F:\Навчання\Проекти с++\МООП\Проект\Tfin12\Tfin12\Tfin12\ProjectForm\Debug\ProjectForm.exe

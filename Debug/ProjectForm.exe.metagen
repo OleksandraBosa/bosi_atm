@@ -1,0 +1,90 @@
+  ProjectForm.Form1.resources - Embedded, ContainedInManifestFile, 
+  ProjectForm.Phone.resources - Embedded, ContainedInManifestFile, 
+  ProjectForm.Receipt1.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ProjectForm, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class ProjectForm.Phone: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String _sms : Public
+Class ProjectForm.Receipt: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String _receipt : Public
+Class ProjectForm.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Mobile* phone1 : Public
+    Mobile* phone2 : Public
+    Card* carddebit : Public
+    Card* cardcredit : Public
+    CashDispenser* cashDispenser : Public
+    ProcessingCenter* processingCenter : Public
+    UInt32 password : Public
+    Int64 a : Public
+    Int64 c : Public
+    Int64 d : Public
+    Int64 b : Public
+    System.String s : Public
+    UInt32 receipt : Public
+    MobileOperator* mobileOperator : Public
+    UInt32 count : Public, Static
+    Boolean flag : Public, Static
+    Boolean disable : Public, Static
+    UInt32 x : Public, Static
+    UInt32 click : Public, Static
+  Methods:
+    listBox1_SelectedIndexChanged(Object, EventArgs): PrivateScope, Public, HideBySig
+    error(): PrivateScope, Public, HideBySig
+    success(): PrivateScope, Public, HideBySig
+    choose(): PrivateScope, Public, HideBySig
+    chooseCard(): PrivateScope, Public, HideBySig
+    success2(): PrivateScope, Public, HideBySig
+    takeCard(): PrivateScope, Public, HideBySig
+    noFunes(): PrivateScope, Public, HideBySig
+    noLimit(): PrivateScope, Public, HideBySig
+    menu(): PrivateScope, Public, HideBySig
+    incorrectMob(): PrivateScope, Public, HideBySig
+    noFunes2(): PrivateScope, Public, HideBySig
+    lock(): PrivateScope, Public, HideBySig
+    lock2(): PrivateScope, Public, HideBySig
+    enter2transfer(): PrivateScope, Public, HideBySig
+    impossibleOp(): PrivateScope, Public, HideBySig
+    incorrectCard(): PrivateScope, Public, HideBySig
+    enterCard(): PrivateScope, Public, HideBySig
+    entersum2trans(): PrivateScope, Public, HideBySig
+    enterAmount(): PrivateScope, Public, HideBySig
+    enterNum(): PrivateScope, Public, HideBySig
+    takeCash(): PrivateScope, Public, HideBySig
+    enterNum2dep(): PrivateScope, Public, HideBySig
+    enterCard2trans(): PrivateScope, Public, HideBySig
+    enterMobnum(): PrivateScope, Public, HideBySig
+    enterSms(): PrivateScope, Public, HideBySig
+    lockedCard(): PrivateScope, Public, HideBySig
+    incorrectpswd(): PrivateScope, Public, HideBySig
+    lockedCard2(): PrivateScope, Public, HideBySig
+    transMore(): PrivateScope, Public, HideBySig
+    transMore2(): PrivateScope, Public, HideBySig
+    invalidValue(): PrivateScope, Public, HideBySig
+    unlockedCard(): PrivateScope, Public, HideBySig
+    incorrectpswrd2(): PrivateScope, Public, HideBySig
